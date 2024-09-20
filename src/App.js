@@ -1,6 +1,6 @@
 import dataBox from './data';
-import './App.css';
-// hello bhai
+import './App.css'
+ 
 import Testimonials  from './Components/Testimonials';
 function App() {
   return (
